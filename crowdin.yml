@@ -4,3 +4,6 @@ targets:
       - i18n/ar/docusaurus-plugin-content-docs/current
     file: docusaurus-plugin-content-docs/current
     format: xliff
+files:
+  - source: i18n/ar/docusaurus-plugin-content-docs/current/
+    translation: ar/docusaurus-plugin-content-docs/current
