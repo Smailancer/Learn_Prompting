@@ -1,0 +1,6 @@
+targets:
+  - name: 'Crowdin Translation '
+    sources:
+      - i18n/ar/docusaurus-plugin-content-docs/current
+    file: docusaurus-plugin-content-docs/current
+    format: xliff
