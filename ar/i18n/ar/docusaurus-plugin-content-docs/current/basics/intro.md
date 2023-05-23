@@ -10,11 +10,11 @@ import Techniques from '@site/docs/assets/techniques.svg';
   <Techniques style={{width:"100%",height:"300px",verticalAlign:"top"}}/>
 </div>
 
-This chapter introduces simple prompting techniques as well as terminology. In order to understand prompting/prompt engineering, you first need to understand some *very* basic AI concepts. If you already know about the below topics, feel free to skip ahead to the [next article](https://learnprompting.org/docs/basics/prompting).
+يقدم هذا الفصل تقنيات توجيه بسيطة و مصطلحات. من أجل فهم هندسة الأوامر، تحتاج أولا إلى فهم بعض *مفاهيم الذكاء الاصطناعي الأساسية*. إذا كنت تعرف بالفعل عن المواضيع التالية، لا تتردد في التخطي إلى [المقال التالي](https://learnprompting.org/docs/basics/prompting).
 
-## What is AI?
+## ما هو الذكاء الاصطناعي؟
 
-For our purposes, artificial intelligence (AI) is a field in which people have created "smart" algorithms that "think" like humans[^1]. These algorithms can write **essays**, solve **math problems**, and create **art**. Recent advances in the field have created AIs so advanced that they can write convincing **sales emails**, **news articles**, and even **win [art competitions](https://impakter.com/art-made-by-ai-wins-fine-arts-competition/)**.
+من أجل أهدافنا، الذكاء الاصطناعي (AI) هو مجال قام فيه الناس بإنشاء خوارزميات "ذكية" و التي "تفكر" مثل البشر[^1]. These algorithms can write **essays**, solve **math problems**, and create **art**. Recent advances in the field have created AIs so advanced that they can write convincing **sales emails**, **news articles**, and even **win [art competitions](https://impakter.com/art-made-by-ai-wins-fine-arts-competition/)**.
 
 AI is currently revolutionizing many industries, including **journalism**, **healthcare**, and **education**. You will likely see it deployed in your workplace/classroom soon if you have not already. Although AI is extremely useful, it requires humans to direct it on what to do. Often AIs are like very smart five-year-olds. They can do a lot of things, but they need careful instruction to do them well.
 
