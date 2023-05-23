@@ -1,0 +1,8 @@
+{
+  "label": "🖼️ Image Prompting",
+  "position": 40,
+  "link": {
+    "type": "generated-index",
+    "description": "هندسة الأوامر لنماذج تحويل النصوص إلى صور مثل DALLE و Stable Diffusion!"
+  }
+}
