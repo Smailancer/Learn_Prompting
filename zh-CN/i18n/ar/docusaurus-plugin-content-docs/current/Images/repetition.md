@@ -26,9 +26,9 @@ import planet_aliens from '@site/docs/assets/images_chapter/planet_aliens.png';
 
 The emphasis on the word `very` seems to improve generation quality! Repetition can also be used to emphasize subject terms. For example, if you want to generate an image of a planet with aliens, using the prompt `A planet with aliens aliens aliens aliens aliens aliens aliens aliens aliens aliens aliens aliens` will make it more likely that aliens are in the resultant image. The following images are made with Stable Diffusion.
 
-`A planet with aliens`
+``
 <div style={{textAlign: 'center'}}>
-  <img src={planet} style={{width: "250px"}} />
+  <img src= style={{width: "250px"}} />
 </div>
 
 `A planet with aliens aliens aliens aliens aliens aliens aliens aliens aliens aliens aliens aliens`
