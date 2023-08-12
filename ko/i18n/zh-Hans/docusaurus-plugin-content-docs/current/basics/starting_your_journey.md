@@ -10,8 +10,6 @@ import Steps from '/docs/assets/steps.svg';
 <div style={{textAlign: 'center'}}>
   <Steps style={{width:"500px",height:"200px",verticalAlign:"top"}}/>
 </div>
-现在你已经了解了提示工程（prompt engineering）的基础知识，你已经可以开始自己尝试提示工程了。本课程的其余部分将包含更多的技术和资源，但学习 PE 的最好方法是开始用自己的提示（prompts）进行实验。本节将告诉你如何开始解决一个任意的提示工程问题。
-
 假设你想要这样一个提示（prompt），它通过 ChatGPT 生成一个沉浸式的互动故事。
 
 ## Step 1: 研究
