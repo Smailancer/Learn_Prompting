@@ -26,9 +26,9 @@ import planet_aliens from '@site/docs/assets/images_chapter/planet_aliens.png';
 
 强调词 "very" 似乎可以提高生成质量！重复也可用于强调主题。例如，如果你想生成一张有外星人的星球图片，使用提示语 `A planet with aliens aliens aliens aliens aliens aliens aliens aliens aliens aliens aliens aliens` 将使得结果图片中出现外星人的可能性更大。下面的图片是使用 Stable Diffusion 生成的。
 
-`A planet with aliens`
+``
 <div style={{textAlign: 'center'}}>
-  <img src={planet} style={{width: "250px"}} />
+  <img src= style={{width: "250px"}} />
 </div>
 
 `A planet with aliens aliens aliens aliens aliens aliens aliens aliens aliens aliens aliens aliens`
