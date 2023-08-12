@@ -26,9 +26,9 @@ import planet_aliens from '@site/docs/assets/images_chapter/planet_aliens.png';
 
 ¡La repetición de la palabra `muy` parece mejorar la calidad de la generación! La repetición también se puede usar para enfatizar términos de sujeto. Por ejemplo, si desea generar una imagen de un planeta con alienígenas, usar la consulta `Un planeta con alienígenas alienígenas alienígenas alienígenas alienígenas alienígenas alienígenas alienígenas alienígenas alienígenas alienígenas` hará que sea más probable que los alienígenas estén en la imagen resultante. Las siguientes imágenes están hechas con Stable Diffusion.
 
-`Un planeta con alienígenas`
+``
 <div style={{textAlign: 'center'}}>
-  <img src={planet} style={{width: "250px"}} />
+  <img src= style={{width: "250px"}} />
 </div>
 
 `Un planeta con alienígenas alienígenas alienígenas alienígenas alienígenas alienígenas alienígenas alienígenas alienígenas alienígenas alienígenas`
