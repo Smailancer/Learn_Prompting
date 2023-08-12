@@ -53,42 +53,41 @@ import Zap from '@site/docs/assets/Zapiermail/Zap.png';
     <br/>
     <details>
       <summary>
-        步骤 1: 收到电子邮件并触发 Zapier
+        
       </summary>
       <div>
         <div style={{textAlign: 'left'}}>
-    <img src={Step1} style={{width: "500px"}} />
+    <img src= style={{width: "500px"}} />
         </div>
       </div>
     </details>
     <details>
       <summary>
-       步骤 2: 格式化电子邮件的内容 
+        
       </summary>
       <div>
         <div style={{textAlign: 'left'}}>
-  <img src={Step2} style={{width: "500px"}} />
+  <img src= style={{width: "500px"}} />
 </div>
       </div>
     </details>
     <details>
       <summary>
-        步骤 3: 和提示词一起发送到 GPT-3
         <br/>
       </summary>
       <div>
         <div style={{textAlign: 'left'}}>
-  <img src={Step3} style={{width: "500px"}} />
+  <img src= style={{width: "500px"}} />
 </div>
       </div>
     </details>
     <details>
       <summary>
-        步骤 4: 添加到数据库中
+        
       </summary>
       <div>
         <div style={{textAlign: 'left'}}>
-  <img src={Step4} style={{width: "500px"}} />
+  <img src= style={{width: "500px"}} />
 </div>
       </div>
     </details>
