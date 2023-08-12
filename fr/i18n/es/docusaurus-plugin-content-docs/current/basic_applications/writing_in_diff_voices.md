@@ -27,9 +27,10 @@ Eso es un poco mejor.
 Y si te sientes un poco más extravagante, puedes pedirle a ChatGPT que escriba en el estilo de uno de los grandes de la literatura, como Mark Twain:
 
 <div style={{textAlign: 'center'}}>
-  <img src={friendship_mark} style={{width: "750px"}} />
+  <img src= style={{width: "750px"}} />
 </div>
-El texto ahora está empezando a cantar. Pero no tiene que ser un autor famoso. También puedes usar personas conocidas como Chris Rock.
+
+ 
 
 <div style={{textAlign: 'center'}}>
   <img src={friendship_chris} style={{width: "750px"}} />
