@@ -101,4 +101,4 @@ sidebar_position: 1
 - تابعنا على [Twitter](https://twitter.com/learnprompting)
 - انضم إلى مسابقة HackAPrompt حتى 26 مايو [Twitter](https://www.aicrowd.com/challenges/hackaprompt-2023)
 
-حتى أقل قدر من التعليقات والمراجعات سيكون مفيدًا للغاية!
+أقل قدر من التعليقات والمراجعات سيكون مفيدًا للغاية!
