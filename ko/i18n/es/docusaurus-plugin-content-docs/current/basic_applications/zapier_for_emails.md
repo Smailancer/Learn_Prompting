@@ -51,42 +51,41 @@ Asegúrate de tener una [cuenta de Zapier](https://zapier.com/sign-up) (puedes o
     <br/>
     <details>
       <summary>
-      Paso 1: Disparador de Gmail en nuevos correos electrónicos entrantes (se utiliza Gmail aquí)
+      
       </summary>
       <div>
         <div style={{textAlign: 'left'}}>
-    <img src={Step1} style={{width: "500px"}} />
+    <img src= style={{width: "500px"}} />
         </div>
       </div>
     </details>
     <details>
       <summary>
-       Paso 2: Formatter para el contenido del correo electrónico
+       
       </summary>
       <div>
         <div style={{textAlign: 'left'}}>
-  <img src={Step2} style={{width: "500px"}} />
+  <img src= style={{width: "500px"}} />
 </div>
       </div>
     </details>
     <details>
       <summary>
-        Paso 3: Solicitando el contenido del correo electrónico
         <br/>
       </summary>
       <div>
         <div style={{textAlign: 'left'}}>
-  <img src={Step3} style={{width: "500px"}} />
+  <img src= style={{width: "500px"}} />
 </div>
       </div>
     </details>
     <details>
       <summary>
-        Paso 4: Agregarlo a una base de datos
+        
       </summary>
       <div>
         <div style={{textAlign: 'left'}}>
-  <img src={Step4} style={{width: "500px"}} />
+  <img src= style={{width: "500px"}} />
 </div>
       </div>
     </details>
