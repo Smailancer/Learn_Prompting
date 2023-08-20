@@ -18,16 +18,16 @@ sidebar_position: 9p
   <img src={bad_pitt} style={{width: "250px"}} />
 </div>
 
-Using a robust negative prompt, we can generate much more convincing hands.
+وباستخدام حافز سلبي قوي، يمكننا أن نولّد أيادي أكثر إقناعا.
 
 ``
 <div style={{textAlign: 'center'}}>
   <img src= style={{width: "250px"}} />
 </div>
 
-Using a similar negative prompt can help with other body parts as well. Unfortunately, this technique is not consistent, so you may need to attempt multiple generations before getting a good result. In the future, this type of prompting should be unnecessary since models will improve. However, currently it is a very useful technique.
+واستخدام موجة سلبية مماثلة يمكن أن يساعد في أجزاء أخرى من الجسم أيضا. لسوء الحظ، هذه التقنية ليست متسقة، لذا قد تحتاج إلى محاولة أجيال متعددة قبل الحصول على نتيجة جيدة. وفي المستقبل، ينبغي أن يكون هذا النوع من الحفز غير ضروري لأن النماذج ستتحسن. ومع ذلك، فهو حاليا أسلوب مفيد للغاية.
 
 
-# Notes
+# ملاحظات
 
-Improved models such as [Protogen](https://civitai.com/models/3666/protogen-x34-official-release) are often better with hands, feet, etc.
+النماذج المحسنة مثل [Protogen](https://civitai.com/models/3666/protogen-x34-official-release) غالبا ما تكون أفضل مع اليدين والقدمين وما إلى ذلك.
