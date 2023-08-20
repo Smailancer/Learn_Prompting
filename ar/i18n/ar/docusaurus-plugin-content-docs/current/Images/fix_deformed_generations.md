@@ -2,18 +2,17 @@
 sidebar_position: 9p
 ---
 
-# 🟢 Fix Deformed Generations
+# 🟢 إصلاح الأجيال المشكّلة
 
-Deformed generations, particularly on human body parts (e.g. hands, feet), are a common issue with many models. This can be dealt with to some extent with good negative prompts(@blake2022with). The following example is adapted from [this Reddit post](https://www.reddit.com/r/StableDiffusion/comments/z7salo/with_the_right_prompt_stable_diffusion_20_can_do/).
+والأجيال المشوهة، ولا سيما على أجزاء الجسم البشري (مثل اليدين والأقدام)، هي مسألة مشتركة مع نماذج كثيرة. ويمكن معالجة هذا الأمر إلى حد ما بأمر سلبي جيد (@blake2022with). المثال التالي تم تكييفه من [هذه المشاركة في Reddit](https://www.reddit.com/r/StableDiffusion/comments/z7salo/with_the_right_prompt_stable_diffusion_20_can_do/).
 
 ## مثال
 
-import good_pitt from '@site/docs/assets/images_chapter/good_pitt.png';
-import bad_pitt from '@site/docs/assets/images_chapter/bad_pitt.png';
+استيراد good_pitt من '@site/docs/assets/images_chapter/good_pitt.png'; استيراد bad_pitt من '@site/docs/assets/images_chapter/bad_pitt.png';
 
-Using Stable Diffusion v1.5 and the following prompt, we generate a nice image of Brad Pitt, except for his hands of course!
+باستخدام التنفيس المستقر v1.5 والموجة التالية، نحن نولد صورة جميلة لبراد بيت، باستثناء يديه في الدورة التدريبية!
 
-`studio medium portrait of Brad Pitt waving his hands, detailed, film, studio lighting, 90mm lens, by Martin Schoeller:6`
+`صورة استوديو متوسطة لبراد بيت تلوح بيديه، فيلم مفصل، إضاءة استوديو، عدسة 90 مم، من قبل مارتن شويلر(6)`
 
 <div style={{textAlign: 'center'}}>
   <img src={bad_pitt} style={{width: "250px"}} />
